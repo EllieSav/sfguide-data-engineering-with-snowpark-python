@@ -2,7 +2,7 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "IKTHOPL-XK95275"
+account = "bd49831.us-east-2.aws/"
 user = "esavova"
 password = "Limonki8!"
 role = "HOL_ROLE"
